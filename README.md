@@ -5,6 +5,7 @@ Hello, I am SirLennox.
 ## My Skills
 - Java
 - JavaScript
+- Node.js
 - TypeScript
 - Python
 - HTML
@@ -14,6 +15,9 @@ Hello, I am SirLennox.
 ## Specifications
 - Minecraft
 - Exploiting
+
+## Operating System
+Linux (deepin)
 
 # Social
 
