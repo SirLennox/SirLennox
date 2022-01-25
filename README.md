@@ -10,6 +10,8 @@ Hello, I am SirLennox.
 - Python
 - HTML
 - CSS
+- (C#)
+- (C++)
 - Networking
 
 ## Specifications
