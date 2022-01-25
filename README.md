@@ -12,14 +12,14 @@ Hello, I am SirLennox.
 - CSS
 - (C#)
 - (C++)
-- Networking
 
 ## Specifications
 - Minecraft
+- Networking
 - Exploiting
 
 ## Operating System
-Linux (deepin)
+Linux (deepin, manjaro)
 
 # Social
 
