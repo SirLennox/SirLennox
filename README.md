@@ -12,6 +12,7 @@ Hello, I am SirLennox.
 - CSS
 - (C#)
 - (C++)
+- (PHP)
 
 ## Specifications
 - Minecraft
