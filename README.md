@@ -14,7 +14,7 @@ Hello, I am SirLennox.
 - (C++)
 - (PHP)
 
-## Specifications
+# Specifications
 - Minecraft
 - Networking
 - Exploiting
@@ -24,13 +24,13 @@ Hello, I am SirLennox.
 - Windows 10
 
 
-# Social
+## Social
 
 [YouTube/SirLennox](https://youtube.com/channel/UCaohO-Gcx6HKJ2x-ns-T04Q)
 
 [Twitter/SirLennoxDev](https://twitter.com/SirLennoxDev)
 
-# Github Stats
+## Github Stats
 
 ![SirLennox's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirLennox&show_icons=true&theme=radical&title_color=ff006e&text_color=cd63ff&icon_color=ff0087)
 
