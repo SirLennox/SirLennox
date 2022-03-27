@@ -16,6 +16,7 @@ Hello, I am SirLennox.
 
 # Specifications
 - Minecraft
+- Discord
 - Networking
 - Exploiting
 
@@ -34,3 +35,5 @@ Hello, I am SirLennox.
 
 ![SirLennox's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirLennox&show_icons=true&theme=radical&title_color=ff006e&text_color=cd63ff&icon_color=ff0087)
 
+## My Website
+[Visit](https://sirlennox.ams-01.rexum.space/)
