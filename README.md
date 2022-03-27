@@ -31,5 +31,5 @@ Hello, I am SirLennox.
 
 # Github Stats
 
-![SirLennox's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirLennox&show_icons=true&theme=radical)
+![SirLennox's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirLennox&show_icons=true&theme=radical&title_color=ff006e&text_color=cd63ff&icon_color=ff0087)
 
