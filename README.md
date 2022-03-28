@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&color=F70065&vCenter=true&height=100&lines=SirLennox)](https://git.io/typing-svg)
+
 Hello, I am SirLennox.
 
 # About Me
