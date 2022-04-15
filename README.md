@@ -6,6 +6,7 @@ Hello, I am SirLennox.
 
 ## My Skills
 - Java
+- Android Development
 - JavaScript
 - Node.js
 - TypeScript
