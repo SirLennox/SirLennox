@@ -23,11 +23,6 @@ Hello, I am SirLennox.
 - Networking
 - Exploiting
 
-## Operating Systems
-- Linux (deepin, manjaro)
-- Windows 10
-
-
 ## Social
 
 [YouTube/SirLennox](https://youtube.com/channel/UCaohO-Gcx6HKJ2x-ns-T04Q)
